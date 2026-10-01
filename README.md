@@ -28,7 +28,7 @@ Target,Source,<0.000>,<0.001>, … ,<10.000>
 Each data row is one target-source pair (86 sources x 62 targets = 5,332 pairs). The remaining columns give the SAF at each monoenergetic source electron energy (in **MeV**). Photon PHITS simulations were run on a logarithmic grid from 10 keV to 10 MeV (25 datapoints). A limiting value at 0 MeV was computed following Eqns. 11-16 along with interpolated values at 1 and 5 keV (3 datapoints) for a total of 28 datapoints per target-source pair (Columns C:AD). A zero value at an energy greater than 0 MeV is one in which the calculated SAF was found to be zero.
 
 ## Change Log
-**`24 August 2026:`** Citation: Wyatt W Smither *et al* 2026 Physics in Medicine & Biology **71** 165023 [DOI:10.1088/1361-6560/ae94db]
+**`24 August 2026:`** **Citation:** Wyatt W Smither *et al* 2026 Physics in Medicine & Biology **71** 165023 [DOI:10.1088/1361-6560/ae94db]
 
 **`1 October 2026:`** Updated README.md, uploaded finalized data.
 
